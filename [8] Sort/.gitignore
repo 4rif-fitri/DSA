@@ -1,0 +1,12 @@
+# Ignore all build folders
+**/build/
+
+# Ignore executables
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+
+# VSCode config
+.vscode/
